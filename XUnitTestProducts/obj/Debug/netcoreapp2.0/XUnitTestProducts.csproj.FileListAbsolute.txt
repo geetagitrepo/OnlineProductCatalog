@@ -1,0 +1,40 @@
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\bin\Debug\netcoreapp2.0\XUnitTestProducts.deps.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\bin\Debug\netcoreapp2.0\XUnitTestProducts.runtimeconfig.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\bin\Debug\netcoreapp2.0\XUnitTestProducts.runtimeconfig.dev.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\bin\Debug\netcoreapp2.0\XUnitTestProducts.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.csproj.CoreCompileInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.AssemblyInfoInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.AssemblyInfo.cs
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.csprojAssemblyReference.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\bin\Debug\netcoreapp2.0\XUnitTestProducts.pdb
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\bin\Debug\netcoreapp2.0\ProductCatalog.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\bin\Debug\netcoreapp2.0\ProductCatalog.pdb
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.csproj.CopyComplete
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.pdb
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\bin\Debug\netcoreapp2.0\XUnitTestProducts.deps.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\bin\Debug\netcoreapp2.0\XUnitTestProducts.runtimeconfig.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\bin\Debug\netcoreapp2.0\XUnitTestProducts.runtimeconfig.dev.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\bin\Debug\netcoreapp2.0\XUnitTestProducts.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\bin\Debug\netcoreapp2.0\XUnitTestProducts.pdb
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\bin\Debug\netcoreapp2.0\ProductCatalog.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\bin\Debug\netcoreapp2.0\ProductCatalog.pdb
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.csprojAssemblyReference.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.csproj.CoreCompileInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.AssemblyInfoInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.AssemblyInfo.cs
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.csproj.CopyComplete
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.pdb
