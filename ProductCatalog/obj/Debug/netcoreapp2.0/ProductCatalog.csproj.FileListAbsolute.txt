@@ -1,0 +1,44 @@
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.deps.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.runtimeconfig.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.runtimeconfig.dev.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.pdb
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.AssemblyInfo.cs
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.pdb
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.csprojAssemblyReference.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.deps.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.runtimeconfig.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.runtimeconfig.dev.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.pdb
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.csprojAssemblyReference.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.AssemblyInfo.cs
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.pdb
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.deps.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.runtimeconfig.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.runtimeconfig.dev.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.pdb
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.csprojAssemblyReference.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.AssemblyInfo.cs
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.pdb
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.deps.json
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.runtimeconfig.json
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.runtimeconfig.dev.json
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.dll
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.pdb
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.csprojAssemblyReference.cache
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.AssemblyInfo.cs
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.dll
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.pdb
