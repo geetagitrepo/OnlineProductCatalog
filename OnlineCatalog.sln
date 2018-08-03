@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductCatalog", "ProductCa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineCatalogApp", "OnlineCatalogApp\OnlineCatalogApp.csproj", "{7864C204-6756-4FF7-8A2D-A9E5792A4BC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProducts", "XUnitTestProducts\XUnitTestProducts.csproj", "{41113817-FD9B-48B5-BDB7-383857FD13BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnitTestProducts", "XUnitTestProducts\XUnitTestProducts.csproj", "{41113817-FD9B-48B5-BDB7-383857FD13BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
