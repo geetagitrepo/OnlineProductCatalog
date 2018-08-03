@@ -1,0 +1,44 @@
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.deps.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.runtimeconfig.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.runtimeconfig.dev.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.csproj.CoreCompileInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.AssemblyInfoInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.AssemblyInfo.cs
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.pdb
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.csprojAssemblyReference.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.pdb
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.deps.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.runtimeconfig.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.runtimeconfig.dev.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.pdb
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.csprojAssemblyReference.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.csproj.CoreCompileInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.AssemblyInfoInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.AssemblyInfo.cs
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18)\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.pdb
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.deps.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.runtimeconfig.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.runtimeconfig.dev.json
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.pdb
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.csprojAssemblyReference.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.csproj.CoreCompileInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.AssemblyInfoInputs.cache
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.AssemblyInfo.cs
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.dll
+C:\Users\geeta.d.sharma\Documents\Visual Studio 2017\Projects\OnlineCatalog - Copy (18) - Copy\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.pdb
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.deps.json
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.runtimeconfig.json
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.runtimeconfig.dev.json
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.dll
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\OnlineCatalogApp\bin\Debug\netcoreapp2.0\OnlineCatalogApp.pdb
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.csprojAssemblyReference.cache
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.csproj.CoreCompileInputs.cache
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.AssemblyInfoInputs.cache
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.AssemblyInfo.cs
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.dll
+C:\Users\geeta.d.sharma\Desktop\Final\OnlineCatalog\OnlineCatalogApp\obj\Debug\netcoreapp2.0\OnlineCatalogApp.pdb
